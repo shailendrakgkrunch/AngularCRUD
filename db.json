@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Shailendra",
+      "lastName": "Maurya",
+      "email": "shailendra.kgkrunch@gmail.com",
+      "mobile": "9099237351",
+      "salary": "100000000"
+    },
+    {
+      "id": 5,
+      "firstName": "Shailendra",
+      "lastName": "Maurya",
+      "email": "shailendra.kgkrunch@gmail.com",
+      "mobile": "9099237351",
+      "salary": "10000"
+    },
+    {
+      "id": 6,
+      "firstName": "Shailendra",
+      "lastName": "Maurya",
+      "email": "shailendra.kgkrunch@gmail.com",
+      "mobile": "9099237351",
+      "salary": "10000"
+    },
+    {
+      "id": 7,
+      "firstName": "Shailendra",
+      "lastName": "Maurya",
+      "email": "shailendra.kgkrunch@gmail.com",
+      "mobile": "9099237351",
+      "salary": "10000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
